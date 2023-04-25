@@ -22,4 +22,5 @@ for (i in fig_outs) {
    print(paste0(i, " is not found in independent run output directory"))
    cat("\n", "\n", "\n")
   }
-} 
+ }
+}
